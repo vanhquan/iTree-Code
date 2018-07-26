@@ -1,0 +1,4 @@
+WorkDate	DateTime
+WorkName	String	100
+Check	String	100
+Remarks	String	200

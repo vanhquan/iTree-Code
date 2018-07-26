@@ -1,0 +1,7 @@
+WorkDate	DateTime		
+D3	Number		
+UnitPrice	Currency		
+A	Currency		
+B	Currency		
+CheckValue	Number
+Remarks	String	250
